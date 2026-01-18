@@ -1,0 +1,7 @@
+imap_oauth2:
+  auth_method: xoauth2
+  provider: microsoft
+  tenant_id: TENANT_ID
+  client_id: CLIENT_ID
+  client_secret: CLIENT_SECRET
+  username: user@domain.pl
